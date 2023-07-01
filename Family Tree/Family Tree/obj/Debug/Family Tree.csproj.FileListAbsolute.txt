@@ -1,0 +1,815 @@
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Family Tree.exe.config
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Family Tree.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Family Tree.pdb
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree.csproj.AssemblyReference.cache
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\MainWindow.g.cs
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\App.g.cs
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree_MarkupCompile.cache
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree_MarkupCompile.lref
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\MainWindow.baml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree.g.resources
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\Family_Tree.Properties.Resources.resources
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree.csproj.GenerateResource.cache
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree.csproj.CoreCompileInputs.cache
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree.pdb
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\App.baml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\AddingPerson.g.cs
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\TreeEditor.g.cs
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\AddingPerson.baml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\TreeEditor.baml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\Interop.ADOX.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree.csproj.ResolveComReference.cache
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\AddingPlaces.g.cs
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\AddingPlaces.baml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\AddingEvents.g.cs
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\AddingEvents.baml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\Warning.g.cs
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\Warning.baml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\Show.g.cs
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\Show.baml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.Buffers.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.Drawing.Common.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.Memory.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.Text.Json.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.ValueTuple.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.Buffers.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.Memory.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.Text.Json.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.ValueTuple.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree.csproj.CopyComplete
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\Tree.g.cs
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\Tree.baml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Entities.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Output.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Output.Generators.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Output.Writers.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Types.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Entities.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Output.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Output.Generators.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Output.Writers.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Types.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree_Content.g.cs
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\acyclic.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\bcomps.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\cairo.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\ccomps.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\cdt.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\cgraph++.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\cgraph.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\circo.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\cluster.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\concrt140.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\dijkstra.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\dot.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\dot2gxl.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\dot_builtins.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\edgepaint.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\expat.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\fdp.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\fontconfig.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gc.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\getopt.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\glib-2.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gml2gv.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gobject-2.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\graphml2gv.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gv2gml.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gv2gxl.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvc++.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvc.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvcolor.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvgen.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvmap.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvpack.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvplugin_core.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvplugin_dot_layout.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvplugin_gdiplus.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvplugin_neato_layout.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvplugin_pango.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvpr.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gxl2dot.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gxl2gv.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\libharfbuzz-0.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\mm2gv.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\msvcp140.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\msvcp140_1.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\msvcp140_2.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\msvcp140_atomic_wait.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\msvcp140_codecvt_ids.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\neato.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\nop.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\osage.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\pango-1.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\pangocairo-1.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\pangoft2-1.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\pangowin32-1.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\patchwork.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\pathplan.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\pixman-1.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\prune.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\sccmap.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\sfdp.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\tred.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\twopi.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\unflatten.exe
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\vcruntime140.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\vcruntime140_1.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\xdot.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\config6
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvmap.sh
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Images\Icons\broken_heart.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Images\Icons\heart.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\protobuf-net.Core.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\protobuf-net.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.CodeDom.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\protobuf-net.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\protobuf-net.Core.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.CodeDom.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.Drawing.Common.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Images\Icons\puzzle.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\ShowTree.g.cs
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\obj\Debug\ShowTree.baml
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\divorce.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\poxor.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\poxoro.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\Wedding.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\wedding2.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\wedding4.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\wedding5.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\weding3.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Albert.jpg
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Alexandra.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Alice.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Andrew.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Anna Boleyn.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Anna w.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Archie.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Beatrice.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Bouz Layon Elizabeth.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\camillla.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Charles.jpg
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Charlotte.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Diana.jpg
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\edward August.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Edward Prince.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\edward vii.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\edward viii.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Elizabeth II.jpg
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Elizabeth Tudor.jpg
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\genrich tudor.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\george v.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Harry.jpg
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Helen.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Jeorge VI.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Jeorge.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Kartin.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\lilibeth.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Lui.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\luiza.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Margaret.jpg
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Mary.jpg
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Megan.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Phillip.jpg
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Princess Victoria.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\queen mary.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\victoria sacsen.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Victoria.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\William.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\buckinham.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\clarense house.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\germany.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\glostershir graph.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\Greece.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\kensington.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\saint james.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\usa.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\windsor catle (1).png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\windsor catle (2).png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\windsor catle.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\windsor.png
+C:\Users\Paulina\Desktop\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family.accdb
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Fonts\VisbyRoundCF-Bold.ttf
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Fonts\VisbyRoundCF-DemiBold.ttf
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Fonts\VisbyRoundCF-ExtraBold.ttf
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Fonts\VisbyRoundCF-Light.ttf
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Fonts\VisbyRoundCF-Medium.ttf
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Fonts\VisbyRoundCF-Regular.ttf
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Айше хафса.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Баязид.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Бейхан.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Гюльфем.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Джих.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Ибрагим.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Махидевран.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Мехмед.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Михрима.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Мустафа.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\осман.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Рустем.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Селим 1.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Селим.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Сулейман.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Фатьма.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\хатя.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Хуриджихан.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Хюррем.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Шах.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Эсмехан.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Амасья.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Бурса.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Венеция.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Конья.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Крым.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Кютахья.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Маниса.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Ои.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Персия.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Русь.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Сесилья.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Сигетар.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Стамбул.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Топкапы.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Трабзн.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век.accdb
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Александр I.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Александр II.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Александр III.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Александра Фёдоровна.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Алексей Михайлович.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Алексей Николаевич.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Анастасия Николаевна.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Анна Петровна.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Василий III.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Годунов Борис.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Екатерина I.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Екатерина II.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Екатерина Михайловна.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Елизавета.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Иван Грозный.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Ирина Годунова.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Карл Фридрих.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Мария Александровна.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Мария Николаевна.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Мария Фёдоровна Жена Павла I.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Мария Фёдоровна.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Михаил Фёдорович.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Николай I.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Николай II.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Ольга Николаевна.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Павел I.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Петр I.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Петр III.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Татьяна Николаевна.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Фёдор II Годунов.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Фёдор III.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Фёдор Иванович.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\Places\Александровская слобода.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\Places\Александровский дворец.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\Places\Гатчина.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\Places\Зимний дворец.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\Places\Империя (1).png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\Places\Ипатьевский дом.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\Places\Крымский дворец.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\Places\Павловск.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\Places\Петербург.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\Places\Петергоф.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы.accdb
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Family Tree Help.chm
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Fonts\VisbyRoundCF-Oblique.ttf
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\divorce.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\poxor.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\poxoro.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\Wedding.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\wedding2.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\wedding4.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\wedding5.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\weding3.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Albert.jpg
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Alexandra.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Alice.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Andrew.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Anna Boleyn.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Anna w.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Archie.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Beatrice.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Bouz Layon Elizabeth.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\camillla.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Charles.jpg
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Charlotte.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Diana.jpg
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\edward August.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Edward Prince.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\edward vii.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\edward viii.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Elizabeth II.jpg
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Elizabeth Tudor.jpg
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\genrich tudor.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\george v.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Harry.jpg
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Helen.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Jeorge VI.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Jeorge.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Kartin.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\lilibeth.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Lui.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\luiza.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Margaret.jpg
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Mary.jpg
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Megan.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Phillip.jpg
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Princess Victoria.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\queen mary.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\victoria sacsen.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Victoria.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\William.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\buckinham.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\clarense house.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\germany.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\glostershir graph.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\Greece.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\kensington.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\saint james.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\usa.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\windsor catle (1).png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\windsor catle (2).png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\windsor catle.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\windsor.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family.accdb
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\acyclic.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\bcomps.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\cairo.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\ccomps.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\cdt.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\cgraph++.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\cgraph.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\circo.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\cluster.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\concrt140.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\dijkstra.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\dot.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\dot2gxl.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\dot_builtins.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\edgepaint.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\expat.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\fdp.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\fontconfig.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gc.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\getopt.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\glib-2.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gml2gv.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gobject-2.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\graphml2gv.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gv2gml.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gv2gxl.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvc++.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvc.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvcolor.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvgen.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvmap.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvpack.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvplugin_core.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvplugin_dot_layout.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvplugin_gdiplus.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvplugin_neato_layout.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvplugin_pango.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvpr.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gxl2dot.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gxl2gv.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\libharfbuzz-0.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\mm2gv.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\msvcp140.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\msvcp140_1.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\msvcp140_2.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\msvcp140_atomic_wait.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\msvcp140_codecvt_ids.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\neato.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\nop.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\osage.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\pango-1.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\pangocairo-1.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\pangoft2-1.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\pangowin32-1.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\patchwork.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\pathplan.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\pixman-1.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\prune.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\sccmap.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\sfdp.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\tred.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\twopi.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\unflatten.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\vcruntime140.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\vcruntime140_1.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\xdot.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Images\Icons\broken_heart.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Images\Icons\heart.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Images\Icons\puzzle.png
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\config6
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvmap.sh
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Family Tree.exe.config
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Family Tree.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Family Tree.pdb
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Entities.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Output.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Output.Generators.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Output.Writers.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Types.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\protobuf-net.Core.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\protobuf-net.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.Buffers.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.CodeDom.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.Drawing.Common.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.Memory.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.Text.Json.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.ValueTuple.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Entities.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Output.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Output.Generators.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Output.Writers.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Types.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\protobuf-net.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\protobuf-net.Core.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.Buffers.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.CodeDom.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.Drawing.Common.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.Memory.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.Text.Json.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\bin\Debug\System.ValueTuple.xml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree.csproj.AssemblyReference.cache
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\Interop.ADOX.dll
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree.csproj.ResolveComReference.cache
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\AddingEvents.g.cs
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\AddingPerson.g.cs
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\AddingPlaces.g.cs
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\MainWindow.g.cs
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\Show.g.cs
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\ShowTree.g.cs
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\Tree.g.cs
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\TreeEditor.g.cs
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\Warning.g.cs
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\App.g.cs
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree_Content.g.cs
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree_MarkupCompile.cache
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree_MarkupCompile.lref
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\App.baml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\AddingEvents.baml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\AddingPerson.baml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\AddingPlaces.baml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\MainWindow.baml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\Show.baml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\ShowTree.baml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\Tree.baml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\TreeEditor.baml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\Warning.baml
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree.g.resources
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\Family_Tree.Properties.Resources.resources
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree.csproj.GenerateResource.cache
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree.csproj.CoreCompileInputs.cache
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree.csproj.CopyComplete
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree.exe
+C:\Users\Paulina\Documents\Family Tree\Family Tree\Family Tree\obj\Debug\Family Tree.pdb
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Fonts\VisbyRoundCF-Bold.ttf
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Fonts\VisbyRoundCF-DemiBold.ttf
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Fonts\VisbyRoundCF-ExtraBold.ttf
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Fonts\VisbyRoundCF-Light.ttf
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Fonts\VisbyRoundCF-Medium.ttf
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Fonts\VisbyRoundCF-Regular.ttf
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Айше хафса.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Баязид.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Бейхан.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Гюльфем.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Джих.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Ибрагим.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Махидевран.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Мехмед.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Михрима.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Мустафа.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\осман.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Рустем.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Селим 1.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Селим.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Сулейман.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Фатьма.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\хатя.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Хуриджихан.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Хюррем.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Шах.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\People\Эсмехан.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Амасья.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Бурса.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Венеция.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Конья.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Крым.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Кютахья.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Маниса.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Ои.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Персия.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Русь.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Сесилья.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Сигетар.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Стамбул.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Топкапы.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век-Resources\Places\Трабзн.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Великолепный век\Великолепный век.accdb
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Александр I.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Александр II.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Александр III.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Александра Фёдоровна.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Алексей Михайлович.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Алексей Николаевич.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Анастасия Николаевна.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Анна Петровна.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Василий III.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Годунов Борис.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Екатерина I.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Екатерина II.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Екатерина Михайловна.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Елизавета.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Иван Грозный.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Ирина Годунова.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Карл Фридрих.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Мария Александровна.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Мария Николаевна.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Мария Фёдоровна Жена Павла I.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Мария Фёдоровна.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Михаил Фёдорович.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Николай I.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Николай II.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Ольга Николаевна.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Павел I.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Петр I.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Петр III.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Татьяна Николаевна.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Фёдор II Годунов.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Фёдор III.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\People\Фёдор Иванович.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\Places\Александровская слобода.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\Places\Александровский дворец.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\Places\Гатчина.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\Places\Зимний дворец.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\Places\Империя (1).png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\Places\Ипатьевский дом.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\Places\Крымский дворец.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\Places\Павловск.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\Places\Петербург.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы-Resources\Places\Петергоф.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\Романовы\Романовы.accdb
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Family Tree Help.chm
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Fonts\VisbyRoundCF-Oblique.ttf
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\divorce.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\poxor.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\poxoro.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\Wedding.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\wedding2.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\wedding4.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\wedding5.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Events\weding3.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Albert.jpg
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Alexandra.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Alice.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Andrew.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Anna Boleyn.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Anna w.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Archie.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Beatrice.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Bouz Layon Elizabeth.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\camillla.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Charles.jpg
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Charlotte.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Diana.jpg
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\edward August.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Edward Prince.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\edward vii.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\edward viii.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Elizabeth II.jpg
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Elizabeth Tudor.jpg
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\genrich tudor.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\george v.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Harry.jpg
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Helen.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Jeorge VI.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Jeorge.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Kartin.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\lilibeth.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Lui.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\luiza.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Margaret.jpg
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Mary.jpg
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Megan.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Phillip.jpg
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Princess Victoria.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\queen mary.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\victoria sacsen.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\Victoria.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\People\William.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\buckinham.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\clarense house.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\germany.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\glostershir graph.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\Greece.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\kensington.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\saint james.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\usa.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\windsor catle (1).png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\windsor catle (2).png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\windsor catle.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family-Resources\Places\windsor.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Examples\British Royal Family\British Royal Family.accdb
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\acyclic.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\bcomps.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\cairo.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\ccomps.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\cdt.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\cgraph++.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\cgraph.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\circo.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\cluster.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\concrt140.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\dijkstra.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\dot.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\dot2gxl.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\dot_builtins.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\edgepaint.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\expat.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\fdp.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\fontconfig.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gc.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\getopt.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\glib-2.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gml2gv.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gobject-2.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\graphml2gv.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gv2gml.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gv2gxl.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvc++.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvc.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvcolor.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvgen.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvmap.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvpack.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvplugin_core.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvplugin_dot_layout.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvplugin_gdiplus.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvplugin_neato_layout.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvplugin_pango.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvpr.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gxl2dot.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gxl2gv.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\libharfbuzz-0.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\mm2gv.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\msvcp140.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\msvcp140_1.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\msvcp140_2.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\msvcp140_atomic_wait.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\msvcp140_codecvt_ids.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\neato.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\nop.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\osage.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\pango-1.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\pangocairo-1.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\pangoft2-1.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\pangowin32-1.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\patchwork.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\pathplan.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\pixman-1.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\prune.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\sccmap.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\sfdp.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\tred.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\twopi.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\unflatten.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\vcruntime140.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\vcruntime140_1.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\xdot.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Images\Icons\broken_heart.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Images\Icons\heart.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Images\Icons\puzzle.png
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\config6
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Assets\Graphviz\bin\gvmap.sh
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Family Tree.exe.config
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Family Tree.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Family Tree.pdb
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Entities.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Output.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Output.Generators.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Output.Writers.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Types.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\protobuf-net.Core.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\protobuf-net.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.Buffers.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.CodeDom.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.Drawing.Common.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.Memory.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.Text.Json.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.ValueTuple.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Entities.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Output.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Output.Generators.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Output.Writers.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\GiGraph.Dot.Types.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\protobuf-net.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\protobuf-net.Core.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.Buffers.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.CodeDom.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.Drawing.Common.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.Memory.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.Text.Json.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\bin\Debug\System.ValueTuple.xml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\Family Tree.csproj.AssemblyReference.cache
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\Family Tree.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\Interop.ADOX.dll
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\Family Tree.csproj.ResolveComReference.cache
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\AddingEvents.g.cs
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\AddingPerson.g.cs
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\AddingPlaces.g.cs
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\MainWindow.g.cs
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\Show.g.cs
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\ShowTree.g.cs
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\Tree.g.cs
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\TreeEditor.g.cs
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\Warning.g.cs
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\App.g.cs
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\Family Tree_Content.g.cs
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\Family Tree_MarkupCompile.cache
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\Family Tree_MarkupCompile.lref
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\App.baml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\AddingEvents.baml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\AddingPerson.baml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\AddingPlaces.baml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\MainWindow.baml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\Show.baml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\ShowTree.baml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\Tree.baml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\TreeEditor.baml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\Warning.baml
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\Family Tree.g.resources
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\Family_Tree.Properties.Resources.resources
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\Family Tree.csproj.GenerateResource.cache
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\Family Tree.csproj.CoreCompileInputs.cache
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\Family Tree.csproj.CopyComplete
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\Family Tree.exe
+C:\Users\Paulina\Documents\Family Tree Project\Family Tree\Family Tree\obj\Debug\Family Tree.pdb

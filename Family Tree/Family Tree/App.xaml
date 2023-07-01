@@ -1,0 +1,327 @@
+﻿<Application x:Class="Family_Tree.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Family_Tree"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+
+        <FontFamily x:Key="Bold">/Family Tree;component/Assets/Fonts/VisbyRoundCF-Bold.ttf#Visby Round CF Bold</FontFamily>
+        <FontFamily x:Key="DemiBold">/Family Tree;component/Assets/Fonts/VisbyRoundCF-DemiBold.ttf#Visby Round CF DemiBold</FontFamily>
+        <FontFamily x:Key="ExtraBold">/Family Tree;component/Assets/Fonts/VisbyRoundCF-ExtraBold.ttf#Visby Round CF ExtraBold</FontFamily>
+        <FontFamily x:Key="Light">/Family Tree;component/Assets/Fonts/VisbyRoundCF-Light.ttf#Visby Round CF Light</FontFamily>
+        <FontFamily x:Key="Medium">/Family Tree;component/Assets/Fonts/VisbyRoundCF-Medium.ttf#Visby Round CF Medium</FontFamily>
+        <FontFamily x:Key="Regular">/Family Tree;component/Assets/Fonts/VisbyRoundCF-Regular.ttf#Visby Round CF</FontFamily>
+        <FontFamily x:Key="Italic">/Family Tree;component/Assets/Fonts/VisbyRoundCF-Oblique.ttf#Visby Round CF Oblique</FontFamily>
+        <Style TargetType="TextBox">
+            <Setter Property="FontStyle" Value="Italic"/>
+            <Setter Property="Height" Value="16.5"/>
+            <Setter Property="TextWrapping" Value="Wrap"/>
+            <Setter Property="VerticalScrollBarVisibility" Value="Auto"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TextBox">
+                        <Border Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="3">
+                            <ScrollViewer x:Name="PART_ContentHost"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="Icon" TargetType="ToggleButton">
+            <!-- Ваши существующие сеттеры свойств -->
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ToggleButton">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+                            <Image x:Name="icon" Source="{Binding Tag, RelativeSource={RelativeSource TemplatedParent}}" HorizontalAlignment="Center" VerticalAlignment="Center" Width="24" Height="24" Opacity="0.5" Margin="0,0,10,0"/>
+                            <ContentPresenter x:Name="contentPresenter" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center" Opacity="0.5"/>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsChecked" Value="True">
+                                <Trigger.EnterActions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <!-- Анимация для изменения иконки при включенном состоянии -->
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="icon" Storyboard.TargetProperty="Source">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="Assets/Images/Icons/view.png"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </Trigger.EnterActions>
+                                <Trigger.ExitActions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <!-- Анимация для изменения иконки при выключенном состоянии -->
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="icon" Storyboard.TargetProperty="Source">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="Assets/Images/Icons/add.png"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </Trigger.ExitActions>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+
+        <Style x:Key="ToolTipStyle" TargetType="ToolTip">
+            <Setter Property="FontFamily" Value="{StaticResource Light}"/>
+            <Setter Property="FontSize" Value="12"/>
+        </Style>
+        <Style x:Key="IconButtonStyle" TargetType="Button">
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Background" Value="#80000000"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="FontFamily" Value="{StaticResource DemiBold}"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <!-- Для иконки -->
+                                <ColumnDefinition Width="Auto"/>
+                                <!-- Для текста -->
+                            </Grid.ColumnDefinitions>
+                            <Image x:Name="icon" Source="{Binding Tag, RelativeSource={RelativeSource TemplatedParent}}" HorizontalAlignment="Center" VerticalAlignment="Center" Width="24" Height="24" Opacity="0.5" Margin="0,0,10,0"/>
+                            <ContentPresenter x:Name="contentPresenter" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center" Opacity="0.5"/>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Trigger.EnterActions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <DoubleAnimation Storyboard.TargetName="icon" Storyboard.TargetProperty="Opacity" To="1" Duration="0:0:0.3"/>
+                                            <DoubleAnimation Storyboard.TargetName="contentPresenter" Storyboard.TargetProperty="Opacity" To="1" Duration="0:0:0.3"/>
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </Trigger.EnterActions>
+                                <Trigger.ExitActions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <DoubleAnimation Storyboard.TargetName="icon" Storyboard.TargetProperty="Opacity" To="0.5" Duration="0:0:0.3"/>
+                                            <DoubleAnimation Storyboard.TargetName="contentPresenter" Storyboard.TargetProperty="Opacity" To="0.5" Duration="0:0:0.3"/>
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </Trigger.ExitActions>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="ComboBoxTextBoxStyle" TargetType="{x:Type TextBox}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type TextBox}">
+                        <Grid>
+                            <Border CornerRadius="4,0,0,4"
+                                    BorderThickness="1"
+                                    Background="{TemplateBinding Background}"
+                                    BorderBrush="#FFABADB3">
+                                <ScrollViewer x:Name="PART_ContentHost"/>
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="{x:Type ComboBox}">
+            <Setter Property="IsEditable" Value="False"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type ComboBox}">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition MaxWidth="20"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBox Name="PART_EditableTextBox"
+                                     Style="{StaticResource ComboBoxTextBoxStyle}"
+                                     Padding="4,0,0,0"
+                                     Height="{TemplateBinding Height}"></TextBox>
+                            <ToggleButton Grid.Column="1" Margin="0"
+                                          Height="{TemplateBinding Height}"
+                                          Focusable="False"
+                                          BorderBrush="#FFABADB3"
+                                          Cursor="Hand"
+                                          IsChecked="{Binding Path=IsDropDownOpen, Mode=TwoWay, RelativeSource={RelativeSource TemplatedParent}}"
+                                          ClickMode="Press">
+                                <ToggleButton.Template>
+                                    <ControlTemplate TargetType="ToggleButton">
+                                        <Grid>
+                                            <Border x:Name="Border"
+                                                    Background="{TemplateBinding Background}"
+                                                    BorderBrush="{TemplateBinding BorderBrush}"
+                                                    BorderThickness="0 1 1 1"
+                                                    CornerRadius="0 4 4 0">
+                                                <ContentPresenter />
+                                            </Border>
+                                            <Path x:Name="Arrow"
+                                                  Grid.Column="1"
+                                                  HorizontalAlignment="Center"
+                                                  VerticalAlignment="Center"
+                                                  Fill="#FFABADB3"
+                                                  Data="M 0 0 L 4 4 L 8 0 Z" />
+                                        </Grid>
+                                    </ControlTemplate>
+                                </ToggleButton.Template>
+                            </ToggleButton>
+                            <ContentPresenter Name="ContentSite"
+                                              Content="{TemplateBinding SelectionBoxItem}"
+                                              ContentTemplate="{TemplateBinding SelectionBoxItemTemplate}"
+                                              ContentTemplateSelector="{TemplateBinding ItemTemplateSelector}"
+                                              VerticalAlignment="Center"
+                                              HorizontalAlignment="Left"
+                                              Margin="5,0,0,0"/>
+                            <Popup Name="Popup"
+                                   Placement="Bottom"
+                                   IsOpen="{TemplateBinding IsDropDownOpen}"
+                                   AllowsTransparency="True"
+                                   Focusable="False"
+                                   PopupAnimation="Slide">
+                                <Grid Name="DropDown"
+                                      SnapsToDevicePixels="True"
+                                      MinWidth="{TemplateBinding ActualWidth}"
+                                      MaxHeight="{TemplateBinding MaxDropDownHeight}">
+                                    <Border
+                                        x:Name="DropDownBorder"
+                                        BorderThickness="1"
+                                        CornerRadius="5"
+                                        Background="White"
+                                        BorderBrush="#FFABADB3"/>
+                                    <ScrollViewer Margin="4,6,4,6" SnapsToDevicePixels="True">
+                                        <StackPanel IsItemsHost="True" KeyboardNavigation.DirectionalNavigation="Contained" />
+                                    </ScrollViewer>
+                                </Grid>
+                            </Popup>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+
+        <Style x:Key="GradientButton" TargetType="Button">
+            <Setter Property="Cursor" Value="Hand" />
+            <Setter Property="BorderThickness" Value="3" />
+            <Setter Property="FontFamily" Value="{StaticResource Bold}" />
+            <Setter Property="BorderBrush" Value="White" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="FontSize" Value="18" />
+            <Setter Property="Width" Value="170" />
+            <Setter Property="Height" Value="48" />
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect BlurRadius="12" Opacity="0.25" ShadowDepth="4" />
+                </Setter.Value>
+            </Setter>
+
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="border" Background="{TemplateBinding Background}"
+                                BorderBrush="White"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="12">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Trigger.EnterActions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <ColorAnimation From="#FF43CCA2" To="#FF195A9B" Duration="0:0:0.2"
+                                                            Storyboard.TargetName="border"
+                                                            Storyboard.TargetProperty="(Border.Background).(GradientBrush.GradientStops)[0].Color" />
+                                            <ColorAnimation From="#FF195A9B" To="#FF43CCA2" Duration="0:0:0.2"
+                                                            Storyboard.TargetName="border"
+                                                            Storyboard.TargetProperty="(Border.Background).(GradientBrush.GradientStops)[1].Color" />
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </Trigger.EnterActions>
+                                <Trigger.ExitActions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <ColorAnimation From="#FF195A9B" To="#FF43CCA2" Duration="0:0:0.2"
+                                                            Storyboard.TargetName="border"
+                                                            Storyboard.TargetProperty="(Border.Background).(GradientBrush.GradientStops)[0].Color" />
+                                            <ColorAnimation From="#FF43CCA2" To="#FF195A9B" Duration="0:0:0.2"
+                                                            Storyboard.TargetName="border"
+                                                            Storyboard.TargetProperty="(Border.Background).(GradientBrush.GradientStops)[1].Color" />
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </Trigger.ExitActions>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Background">
+                <Setter.Value>
+                    <LinearGradientBrush StartPoint="0,0.5" EndPoint="1,0.5">
+                        <GradientStop Color="#FF43CCA2"/>
+                        <GradientStop Color="#FF195A9B" Offset="1"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="JustButton" TargetType="Button">
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="Foreground" Value="#717171" />
+            <Setter Property="Cursor" Value="Hand" />
+            <Setter Property="FontFamily" Value="{StaticResource DemiBold}" />
+            <Setter Property="Margin" Value="5 5 0 5" />
+            <Setter Property="Width" Value="100" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="border" Background="{TemplateBinding Background}"
+                                BorderBrush="#717171"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="5">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="GradientTextBlock" TargetType="TextBlock">
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Padding" Value="5 0 0 0"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="Width" Value="246"/>
+            <Setter Property="VerticalAlignment" Value="Top"/>
+            <Setter Property="FontFamily" Value="{StaticResource Bold}"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Height" Value="22"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Background">
+                <Setter.Value>
+                    <LinearGradientBrush StartPoint="0,0.5" EndPoint="1,0.5">
+                        <GradientStop Color="#FF43CCA2"/>
+                        <GradientStop Color="#FF195A9B" Offset="1"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    </Application.Resources>
+</Application>

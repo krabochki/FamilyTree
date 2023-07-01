@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+    <assembly>
+        <name>GiGraph.Dot.Output.Generators</name>
+    </assembly>
+    <members>
+        <member name="M:GiGraph.Dot.Output.Generators.DotEntityGenerator`2.Supports``1(GiGraph.Dot.Output.Entities.IDotEntity,System.Boolean@)">
+            <summary>
+                Determines whether the instance supports the specified entity type to generate.
+            </summary>
+            <param name="entity">
+                The entity to check.
+            </param>
+            <param name="isExactEntityTypeMatch">
+                Indicates if the specified entity type equals the type the current generator supports. If true is returned by the method,
+                false indicates that the type is still supported, but as a type compatible (e.g. a descendant) with the entity type supported
+                by the generator.
+            </param>
+            <typeparam name="TRequiredWriter">
+                The writer type that determines what type of entity of what part of an entity the generator is expected to support
+                generating.
+            </typeparam>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Generators.DotEntityGenerator`2.Generate(GiGraph.Dot.Output.Entities.IDotEntity,`1,System.Boolean)">
+            <summary>
+                Generates the specified entity using the specified writer.
+            </summary>
+            <param name="entity">
+                The entity to generate.
+            </param>
+            <param name="writer">
+                The instance to write the entity with.
+            </param>
+            <param name="annotate">
+                Determines whether the element should be annotated with a comment if available.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Generators.Graphs.DotGraphGeneratorBuilder.Build(GiGraph.Dot.Output.Options.DotSyntaxRules,GiGraph.Dot.Output.Options.DotSyntaxOptions)">
+            <summary>
+                Builds a DOT graph generator initialized with entity generators provided to the current instance.
+            </summary>
+            <param name="syntaxRules">
+                The syntax rules to follow.
+            </param>
+            <param name="options">
+                The DOT language generation options to use for graph generation and its components.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Generators.IDotEntityGenerator.Supports``1(GiGraph.Dot.Output.Entities.IDotEntity,System.Boolean@)">
+            <summary>
+                Determines whether the instance supports the specified entity type to generate.
+            </summary>
+            <param name="entity">
+                The entity to check.
+            </param>
+            <param name="isExactEntityTypeMatch">
+                Indicates if the specified entity type equals the type the current generator supports. If true is returned by the method,
+                false indicates that the type is still supported, but as a type compatible (e.g. a descendant) with the entity type supported
+                by the generator.
+            </param>
+            <typeparam name="TWriter">
+                The writer type that determines what type of entity of what part of an entity the generator is expected to support
+                generating.
+            </typeparam>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Generators.IDotEntityGenerator`1">
+            <summary>
+                An entity generator that uses a writer to output an entity.
+            </summary>
+            <typeparam name="TWriter">
+                The writer type to be used by the generator to output the entity.
+            </typeparam>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Generators.IDotEntityGenerator`1.Generate(GiGraph.Dot.Output.Entities.IDotEntity,`0,System.Boolean)">
+            <summary>
+                Generates the specified entity using the specified writer.
+            </summary>
+            <param name="entity">
+                The entity to generate.
+            </param>
+            <param name="writer">
+                The instance to write the entity with.
+            </param>
+            <param name="annotate">
+                Determines whether the element should be annotated with a comment if available.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Generators.Providers.DotEntityGeneratorsProviderBuilder.Build(GiGraph.Dot.Output.Options.DotSyntaxRules,GiGraph.Dot.Output.Options.DotSyntaxOptions)">
+            <summary>
+                Builds a provider with all generators necessary to generate a graph.
+            </summary>
+            <param name="syntaxRules">
+                The syntax rules to follow.
+            </param>
+            <param name="options">
+                The DOT language generation options to use for graph generation and its components.
+            </param>
+        </member>
+    </members>
+</doc>

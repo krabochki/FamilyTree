@@ -1,0 +1,1630 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+    <assembly>
+        <name>GiGraph.Dot.Output</name>
+    </assembly>
+    <members>
+        <member name="M:GiGraph.Dot.Output.Entities.IDotAttributeCollection.Any">
+            <summary>
+                Checks if the collection contains any attributes.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Entities.IDotGraph.Id">
+            <summary>
+                Gets the identifier of the graph.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Entities.IDotGraph.Subsections">
+            <summary>
+                Gets the subsections of the graph.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Entities.IDotGraphSection.Attributes">
+            <summary>
+                Gets the collection of attributes of the graph section.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.EnumHelpers.DotEnumMetadata">
+            <summary>
+                Provides enumeration metadata.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.EnumHelpers.DotEnumMetadata.#ctor(System.Type)">
+            <summary>
+                Initializes a new instance.
+            </summary>
+            <param name="enumType">
+                The type of enumeration to provide metadata for.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.EnumHelpers.DotEnumMetadata.GetValues">
+            <summary>
+                Gets all values of the enumeration.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.EnumHelpers.DotEnumMetadata.GetNonCompoundValues">
+            <summary>
+                Gets all non-compound values of the enumeration.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.EnumHelpers.DotEnumMetadata.GetCompoundValues">
+            <summary>
+                Gets all compound (multi-flag) values of the enumeration.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.EnumHelpers.DotEnumMetadata.GetSetFlags(System.Enum)">
+            <summary>
+                Gets set flags of the enumeration.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.EnumHelpers.DotEnumMetadata.IsCompoundValue(System.Enum)">
+            <summary>
+                Checks the number of flags set in the specified enumeration value. Some enum member values may be helpers that are a result
+                of a binary or operation of multiple other values (flags) of that enumeration. The method indicates if this is the case.
+            </summary>
+            <param name="value">
+                The enum value to check.
+            </param>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Metadata.DotAttributeKeyAttribute">
+            <summary>
+                Assigns a DOT attribute key to a property.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeKeyAttribute.#ctor(System.String)">
+            <summary>
+                Creates a new attribute instance.
+            </summary>
+            <param name="key">
+                The key of the DOT attribute.
+            </param>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.DotAttributeKeyAttribute.Key">
+            <summary>
+                Gets the key of the DOT attribute.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Metadata.DotAttributeKeys">
+            <summary>
+                The list of DOT attribute keys.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.DotAttributeKeys.MetadataDictionary">
+            <summary>
+                Gets a dictionary where the key is an attribute key, and the value is its metadata (what elements, layout engines, and output
+                formats it is supported by).
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Metadata.DotAttributeMetadata">
+            <summary>
+                Attribute metadata.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeMetadata.#ctor(System.String,GiGraph.Dot.Output.Metadata.DotCompatibleElements,GiGraph.Dot.Output.Metadata.DotCompatibleLayoutEngines,GiGraph.Dot.Output.Metadata.DotCompatibleOutputs)">
+            <summary>
+                Creates and initializes a new attribute metadata instance.
+            </summary>
+            <param name="key">
+                The key of the attribute.
+            </param>
+            <param name="compatibleElements">
+                Determines what elements the attribute may be applied to.
+            </param>
+            <param name="compatibleLayoutEngines">
+                Determines what layout engines the attribute is supported by.
+            </param>
+            <param name="compatibleOutputs">
+                Determines what output formats the attribute is supported by.
+            </param>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.DotAttributeMetadata.Key">
+            <summary>
+                The key of the attribute.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.DotAttributeMetadata.CompatibleElements">
+            <summary>
+                Indicates what elements the attribute may be applied to.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.DotAttributeMetadata.CompatibleLayoutEngines">
+            <summary>
+                Indicates what layout engines the attribute is supported by.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.DotAttributeMetadata.CompatibleOutputs">
+            <summary>
+                Indicates what output formats the attribute is supported by.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Metadata.DotAttributeMetadataAttribute">
+            <summary>
+                Assigns a value indicating what elements, layout engines, and output formats an attribute key is applicable to.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeMetadataAttribute.#ctor(GiGraph.Dot.Output.Metadata.DotCompatibleElements,GiGraph.Dot.Output.Metadata.DotCompatibleLayoutEngines,GiGraph.Dot.Output.Metadata.DotCompatibleOutputs,System.Boolean)">
+            <summary>
+                Creates a new attribute instance.
+            </summary>
+            <param name="compatibleElements">
+                The entities the current attribute key is supported by.
+            </param>
+            <param name="compatibleLayoutEngines">
+                The layout engines the attribute key is supported by.
+            </param>
+            <param name="compatibleOutputs">
+                The output formats the attribute key is supported by.
+            </param>
+            <param name="isImplemented">
+                Indicates if the attribute is supported by the library.
+            </param>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.DotAttributeMetadataAttribute.CompatibleElements">
+            <summary>
+                Gets the entities the current attribute key is supported by.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.DotAttributeMetadataAttribute.CompatibleLayoutEngines">
+            <summary>
+                Gets the layout engines the attribute key is supported by.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.DotAttributeMetadataAttribute.CompatibleOutputs">
+            <summary>
+                Gets the output formats the attribute key is supported by.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.DotAttributeMetadataAttribute.IsImplemented">
+            <summary>
+                Gets a value indicating if the attribute is supported by the library.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Metadata.DotAttributePropertyMetadata">
+            <summary>
+                Attribute property metadata.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributePropertyMetadata.#ctor(System.String,GiGraph.Dot.Output.Metadata.DotCompatibleElements,GiGraph.Dot.Output.Metadata.DotCompatibleLayoutEngines,GiGraph.Dot.Output.Metadata.DotCompatibleOutputs,System.Reflection.PropertyInfo[])">
+            <summary>
+                Creates and initializes a new attribute metadata instance.
+            </summary>
+            <param name="key">
+                The key of the attribute.
+            </param>
+            <param name="compatibleElements">
+                Determines what elements the attribute may be applied to.
+            </param>
+            <param name="compatibleLayoutEngines">
+                Determines what layout engines the attribute is supported by.
+            </param>
+            <param name="compatibleOutputs">
+                Determines what output formats the attribute is supported by.
+            </param>
+            <param name="propertyInfoPath">
+                The property path as an array of property info, where the last item is the actual property associated with the attribute key.
+            </param>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.DotAttributePropertyMetadata.PropertyPath">
+            <summary>
+                The path to the property.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributePropertyMetadata.GetPropertyInfoPath">
+            <summary>
+                Gets property path as an array of property info (the last item is the actual property associated with the attribute key).
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Metadata.DotAttributeValue">
+            <summary>
+                Provides methods for reading a DOT value associated with an enumeration value.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValue.TryGetAsFlags(System.Enum,System.String@,System.Boolean)">
+            <summary>
+                If the specified enumeration type is marked with a <see cref="T:GiGraph.Dot.Output.Metadata.DotJoinableTypeAttribute" /> returns its individual flags
+                joined with a separator specified by the attribute. If the enumeration does not contain the attribute, returns false.
+            </summary>
+            <param name="flags">
+                The enumeration to convert to DOT attribute flags.
+            </param>
+            <param name="dotFlags">
+                The returned DOT attribute flags.
+            </param>
+            <param name="sort">
+                Determines whether the flags of the enumeration should be sorted when possible.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValue.GetAsFlags(System.Enum,System.Boolean)">
+            <summary>
+                If the specified enumeration type is marked with a <see cref="T:GiGraph.Dot.Output.Metadata.DotJoinableTypeAttribute" /> returns its individual flags
+                joined with a separator specified by the attribute. If the enumeration does not contain the attribute, throws an exception.
+            </summary>
+            <param name="flags">
+                The enumeration to convert to DOT attribute flags.
+            </param>
+            <param name="sort">
+                Determines whether the flags of the enumeration should be sorted when possible.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValue.TryGet(System.Enum,System.String@)">
+            <summary>
+                Tries to get a DOT attribute value associated with the specified enumeration value.
+            </summary>
+            <param name="value">
+                The enumeration value whose associated DOT value to return.
+            </param>
+            <param name="dotValue">
+                The returned DOT attribute value if available.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValue.Get(System.Enum)">
+            <summary>
+                Gets a DOT attribute value associated with the specified enumeration value.
+            </summary>
+            <param name="value">
+                The enumeration value whose associated DOT value to return.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValue.TryGet``1(System.String,``0@)">
+            <summary>
+                Tries to get an enumeration value associated with the specified DOT attribute value.
+            </summary>
+            <param name="value">
+                The returned enumeration value if found.
+            </param>
+            <param name="dotValue">
+                The DOT attribute value whose associated enumeration value to return.
+            </param>
+            <typeparam name="TEnum">
+                The type of the enumeration whose value to search.
+            </typeparam>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValue.TryGet(System.Type,System.String,System.Enum@)">
+            <summary>
+                Tries to get an enumeration value associated with the specified DOT attribute value.
+            </summary>
+            <param name="enumType">
+                The type of the enumeration whose value to search.
+            </param>
+            <param name="value">
+                The returned enumeration value if found.
+            </param>
+            <param name="dotValue">
+                The DOT attribute value whose associated enumeration value to return.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValue.Get``1(System.String)">
+            <summary>
+                Gets an enumeration value associated with the specified DOT attribute value.
+            </summary>
+            <param name="dotValue">
+                The DOT attribute value whose associated enumeration value to return.
+            </param>
+            <typeparam name="TEnum">
+                The type of the enumeration whose value to search.
+            </typeparam>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValue.Get(System.Type,System.String)">
+            <summary>
+                Gets an enumeration value associated with the specified DOT attribute value.
+            </summary>
+            <param name="enumType">
+                The type of the enumeration whose value to search.
+            </param>
+            <param name="dotValue">
+                The DOT attribute value whose associated enumeration value to return.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValue.GetMapping``1">
+            <summary>
+                Gets a dictionary where each key has a DOT attribute value assigned. Enumeration values that are not marked with the
+                <see cref="T:GiGraph.Dot.Output.Metadata.DotAttributeValueAttribute" /> attribute are ignored.
+            </summary>
+            <typeparam name="TEnum">
+                The type of the enumeration whose value mapping to get.
+            </typeparam>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValue.GetMapping(System.Type)">
+            <summary>
+                Gets a dictionary where each key has a DOT attribute value assigned. Enumeration values that are not marked with the
+                <see cref="T:GiGraph.Dot.Output.Metadata.DotAttributeValueAttribute" /> attribute are ignored.
+            </summary>
+            <param name="enumType">
+                The type of the enumeration whose value mapping to get.
+            </param>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Metadata.DotAttributeValue`1">
+            <summary>
+                Provides methods for reading a DOT value associated with an enumeration value.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValue`1.TryGetAsFlags``1(System.Enum,System.String@,System.Boolean)">
+            <summary>
+                If the specified enumeration type is marked with a <typeparamref name="TFlagsAttribute" /> returns its individual flags
+                joined with a separator specified by the attribute. If the enumeration does not contain the attribute, returns false.
+            </summary>
+            <param name="flags">
+                The enumeration to convert to DOT attribute flags.
+            </param>
+            <param name="dotFlags">
+                The returned DOT attribute flags.
+            </param>
+            <param name="sort">
+                Determines whether the flags of the enumeration should be sorted when possible.
+            </param>
+            <typeparam name="TFlagsAttribute">
+                The type of attribute that provides metadata for the specified flags enumeration.
+            </typeparam>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValue`1.GetAsFlags``1(System.Enum,System.Boolean)">
+            <summary>
+                If the specified enumeration type is marked with a <typeparamref name="TFlagsAttribute" /> returns its individual flags
+                joined with a separator specified by the attribute. If the enumeration does not contain the attribute, throws an exception.
+            </summary>
+            <param name="flags">
+                The enumeration to convert to DOT attribute flags.
+            </param>
+            <param name="sort">
+                Determines whether the flags of the enumeration should be sorted when possible.
+            </param>
+            <typeparam name="TFlagsAttribute">
+                The type of attribute that provides metadata for the specified flags enumeration.
+            </typeparam>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValue`1.TryGet(System.Enum,System.String@)">
+            <summary>
+                Tries to get a DOT attribute value associated with the specified enumeration value.
+            </summary>
+            <param name="value">
+                The enumeration value whose associated DOT value to return.
+            </param>
+            <param name="dotValue">
+                The returned DOT attribute value if available.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValue`1.Get(System.Enum)">
+            <summary>
+                Gets a DOT attribute value associated with the specified enumeration value.
+            </summary>
+            <param name="value">
+                The enumeration value whose associated DOT value to return.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValue`1.TryGet``1(System.String,``0@)">
+            <summary>
+                Tries to get an enumeration value associated with the specified DOT attribute value.
+            </summary>
+            <param name="value">
+                The returned enumeration value if found.
+            </param>
+            <param name="dotValue">
+                The DOT attribute value whose associated enumeration value to return.
+            </param>
+            <typeparam name="TEnum">
+                The type of the enumeration whose value to search.
+            </typeparam>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValue`1.TryGet(System.Type,System.String,System.Enum@)">
+            <summary>
+                Tries to get an enumeration value associated with the specified DOT attribute value.
+            </summary>
+            <param name="enumType">
+                The type of the enumeration whose value to search.
+            </param>
+            <param name="value">
+                The returned enumeration value if found.
+            </param>
+            <param name="dotValue">
+                The DOT attribute value whose associated enumeration value to return.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValue`1.Get``1(System.String)">
+            <summary>
+                Gets an enumeration value associated with the specified DOT attribute value.
+            </summary>
+            <param name="dotValue">
+                The DOT attribute value whose associated enumeration value to return.
+            </param>
+            <typeparam name="TEnum">
+                The type of the enumeration whose value to search.
+            </typeparam>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValue`1.Get(System.Type,System.String)">
+            <summary>
+                Gets an enumeration value associated with the specified DOT attribute value.
+            </summary>
+            <param name="enumType">
+                The type of the enumeration whose value to search.
+            </param>
+            <param name="dotValue">
+                The DOT attribute value whose associated enumeration value to return.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValue`1.GetMapping``1">
+            <summary>
+                Gets a dictionary where each key has a DOT attribute value assigned. Enumeration values that are not marked with the
+                <typeparamref name="TAttribute" /> attribute are ignored.
+            </summary>
+            <typeparam name="TEnum">
+                The type of the enumeration whose value mapping to get.
+            </typeparam>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValue`1.GetMapping(System.Type)">
+            <summary>
+                Gets a dictionary where each key has a DOT attribute value assigned. Enumeration values that are not marked with the
+                <typeparamref name="TAttribute" /> attribute are ignored.
+            </summary>
+            <param name="enumType">
+                The type of the enumeration whose value mapping to get.
+            </param>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Metadata.DotAttributeValueAttribute">
+            <summary>
+                Assigns a DOT attribute value to an enumeration value.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotAttributeValueAttribute.#ctor(System.String)">
+            <summary>
+                Creates a new attribute instance.
+            </summary>
+            <param name="value">
+                The value of the DOT attribute.
+            </param>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.DotAttributeValueAttribute.Value">
+            <summary>
+                Gets the value of the DOT attribute.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Metadata.DotCompatibleElements">
+            <summary>
+                Determines types of graph elements that an attribute may be applied to.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleElements.Graph">
+            <summary>
+                The attribute is applicable to the root graph.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleElements.Subgraph">
+            <summary>
+                The attribute is applicable to subgraphs.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleElements.Cluster">
+            <summary>
+                The attribute is applicable to clusters.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleElements.Node">
+            <summary>
+                The attribute is applicable to nodes.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleElements.Edge">
+            <summary>
+                The attribute is applicable to edges.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Metadata.DotCompatibleLayoutEngines">
+            <summary>
+                Determines layout engines that an attribute is used by.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleLayoutEngines.None">
+            <summary>
+                The attribute is used for output only, and is not used or read by any layout program.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleLayoutEngines.Any">
+            <summary>
+                The attribute may be used by any layout engine.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleLayoutEngines.Dot">
+            <summary>
+                The attribute is used by the dot layout engine that draws “hierarchical” or layered drawings of directed graphs. This is the
+                default tool to use if edges have directionality.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleLayoutEngines.NotDot">
+            <summary>
+                The attribute may be used by any layout engine, but is not used by <see cref="F:GiGraph.Dot.Output.Metadata.DotCompatibleLayoutEngines.Dot" />.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleLayoutEngines.Neato">
+            <summary>
+                The attribute is used by the neato layout engine that draws “spring model” layouts. This is the default tool to use if the
+                graph is not too large (about 100 nodes) and you don't know anything else about it. Neato attempts to minimize a global
+                energy function, which is equivalent to statistical multi-dimensional scaling.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleLayoutEngines.Fdp">
+            <summary>
+                The attribute is used by the fdp layout engine that draws “spring model” layouts similar to those of <see cref="F:GiGraph.Dot.Output.Metadata.DotCompatibleLayoutEngines.Neato" />,
+                but does this by reducing forces rather than working with energy.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleLayoutEngines.Sfdp">
+            <summary>
+                The attribute is used by the sfdp layout engine. It is a multiscale version of <see cref="F:GiGraph.Dot.Output.Metadata.DotCompatibleLayoutEngines.Fdp" /> for the layout of large
+                graphs.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleLayoutEngines.Circo">
+            <summary>
+                The attribute is used by the circo layout engine that draws circular layouts. This is suitable for certain diagrams of
+                multiple cyclic structures, such as certain telecommunications networks.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleLayoutEngines.Twopi">
+            <summary>
+                The attribute is used by the twopi layout engine that draws radial layouts. Nodes are placed on concentric circles depending
+                their distance from a given root node.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleLayoutEngines.Patchwork">
+            <summary>
+                The attribute is used by the patchwork layout engine that draws the graph as a squarified treemap. The clusters of the graph
+                are used to specify the tree.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleLayoutEngines.Prism">
+            <summary>
+                The attribute is valid only when the PRoxImity Stress Model algorithm is in use.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Metadata.DotCompatibleOutputs">
+            <summary>
+                Determines outputs that an attribute is used for.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleOutputs.Any">
+            <summary>
+                The attribute may be used for any output.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleOutputs.Xdot">
+            <summary>
+                The attribute is used for the xdot output. It extends the dot format by providing much more detailed information about how
+                graph components are drawn. It relies on additional attributes for nodes, edges and graphs.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleOutputs.Bitmap">
+            <summary>
+                The attribute is used for the Windows Bitmap output.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleOutputs.Svg">
+            <summary>
+                The attribute is used for the Scalable Vector Graphics output.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleOutputs.Cmap">
+            <summary>
+                The attribute is used for the Client-side imagemap output (deprecated).
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleOutputs.Map">
+            <summary>
+                The attribute is used for the map output.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Metadata.DotCompatibleOutputs.PostScript">
+            <summary>
+                The attribute is used for the PostScript output.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Metadata.DotJoinableTypeAttribute">
+            <summary>
+                Provides information for a flags enumeration or an array type about how to join the flags or array items to formulate a
+                meaningful value.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.DotJoinableTypeAttribute.#ctor(System.String,System.Boolean)">
+            <summary>
+                Creates a new attribute instance.
+            </summary>
+            <param name="separator">
+                The separator to use in order to join the flags of the enumeration.
+            </param>
+            <param name="order">
+                Determines whether the values should be ordered before joining.
+            </param>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.DotJoinableTypeAttribute.Separator">
+            <summary>
+                Gets the separator to use in order to join the enumeration flags or array items.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.DotJoinableTypeAttribute.Sort">
+            <summary>
+                Determines whether the values should be ordered before joining.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Metadata.Html.DotHtmlAttributeKeyAttribute">
+            <summary>
+                Assigns an HTML attribute key to a property.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.Html.DotHtmlAttributeKeyAttribute.#ctor(System.String)">
+            <summary>
+                Creates a new attribute instance.
+            </summary>
+            <param name="key">
+                The key of the HTML attribute.
+            </param>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.Html.DotHtmlAttributeKeyAttribute.Key">
+            <summary>
+                Gets the key of the HTML attribute.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Metadata.Html.DotHtmlAttributeValue">
+            <summary>
+                Provides methods for reading an HTML attribute value associated with an enumeration value.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.Html.DotHtmlAttributeValue.TryGetAsFlags(System.Enum,System.String@,System.Boolean)">
+            <summary>
+                If the specified enumeration type is marked with a <see cref="T:GiGraph.Dot.Output.Metadata.Html.DotHtmlJoinableTypeAttribute" /> returns its individual flags
+                joined with a separator specified by the attribute. If the enumeration does not contain the attribute, returns false.
+            </summary>
+            <param name="flags">
+                The enumeration to convert to DOT attribute flags.
+            </param>
+            <param name="dotFlags">
+                The returned DOT attribute flags.
+            </param>
+            <param name="sort">
+                Determines whether the flags of the enumeration should be sorted when possible.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.Html.DotHtmlAttributeValue.GetAsFlags(System.Enum,System.Boolean)">
+            <summary>
+                If the specified enumeration type is marked with a <see cref="T:GiGraph.Dot.Output.Metadata.Html.DotHtmlJoinableTypeAttribute" /> returns its individual flags
+                joined with a separator specified by the attribute. If the enumeration does not contain the attribute, throws an exception.
+            </summary>
+            <param name="flags">
+                The enumeration to convert to DOT attribute flags.
+            </param>
+            <param name="sort">
+                Determines whether the flags of the enumeration should be sorted when possible.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.Html.DotHtmlAttributeValue.TryGet(System.Enum,System.String@)">
+            <summary>
+                Tries to get a DOT attribute value associated with the specified enumeration value.
+            </summary>
+            <param name="value">
+                The enumeration value whose associated DOT value to return.
+            </param>
+            <param name="dotValue">
+                The returned DOT attribute value if available.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.Html.DotHtmlAttributeValue.Get(System.Enum)">
+            <summary>
+                Gets a DOT attribute value associated with the specified enumeration value.
+            </summary>
+            <param name="value">
+                The enumeration value whose associated DOT value to return.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.Html.DotHtmlAttributeValue.TryGet``1(System.String,``0@)">
+            <summary>
+                Tries to get an enumeration value associated with the specified DOT attribute value.
+            </summary>
+            <param name="value">
+                The returned enumeration value if found.
+            </param>
+            <param name="dotValue">
+                The DOT attribute value whose associated enumeration value to return.
+            </param>
+            <typeparam name="TEnum">
+                The type of the enumeration whose value to search.
+            </typeparam>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.Html.DotHtmlAttributeValue.TryGet(System.Type,System.String,System.Enum@)">
+            <summary>
+                Tries to get an enumeration value associated with the specified DOT attribute value.
+            </summary>
+            <param name="enumType">
+                The type of the enumeration whose value to search.
+            </param>
+            <param name="value">
+                The returned enumeration value if found.
+            </param>
+            <param name="dotValue">
+                The DOT attribute value whose associated enumeration value to return.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.Html.DotHtmlAttributeValue.Get``1(System.String)">
+            <summary>
+                Gets an enumeration value associated with the specified DOT attribute value.
+            </summary>
+            <param name="dotValue">
+                The DOT attribute value whose associated enumeration value to return.
+            </param>
+            <typeparam name="TEnum">
+                The type of the enumeration whose value to search.
+            </typeparam>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.Html.DotHtmlAttributeValue.Get(System.Type,System.String)">
+            <summary>
+                Gets an enumeration value associated with the specified DOT attribute value.
+            </summary>
+            <param name="enumType">
+                The type of the enumeration whose value to search.
+            </param>
+            <param name="dotValue">
+                The DOT attribute value whose associated enumeration value to return.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.Html.DotHtmlAttributeValue.GetMapping``1">
+            <summary>
+                Gets a dictionary where each key has a DOT attribute value assigned. Enumeration values that are not marked with the
+                <see cref="T:GiGraph.Dot.Output.Metadata.Html.DotHtmlAttributeValueAttribute" /> attribute are ignored.
+            </summary>
+            <typeparam name="TEnum">
+                The type of the enumeration whose value mapping to get.
+            </typeparam>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.Html.DotHtmlAttributeValue.GetMapping(System.Type)">
+            <summary>
+                Gets a dictionary where each key has a DOT attribute value assigned. Enumeration values that are not marked with the
+                <see cref="T:GiGraph.Dot.Output.Metadata.Html.DotHtmlAttributeValueAttribute" /> attribute are ignored.
+            </summary>
+            <param name="enumType">
+                The type of the enumeration whose value mapping to get.
+            </param>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Metadata.Html.DotHtmlAttributeValueAttribute">
+            <summary>
+                Assigns an HTML attribute value to an enumeration value.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.Html.DotHtmlAttributeValueAttribute.#ctor(System.String)">
+            <summary>
+                Creates a new attribute instance.
+            </summary>
+            <param name="value">
+                The value of the HTML attribute.
+            </param>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.Html.DotHtmlAttributeValueAttribute.Value">
+            <summary>
+                Gets the value of the DOT attribute.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Metadata.Html.DotHtmlJoinableTypeAttribute">
+            <summary>
+                Provides information for a flags enumeration or an array type about how to join the flags or array items to formulate a
+                meaningful value for an HTML attribute.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Metadata.Html.DotHtmlJoinableTypeAttribute.#ctor(System.String,System.Boolean)">
+            <summary>
+                Creates a new attribute instance.
+            </summary>
+            <param name="separator">
+                The separator to use in order to join the flags of the enumeration.
+            </param>
+            <param name="order">
+                Determines whether the values should be ordered before joining.
+            </param>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.Html.DotHtmlJoinableTypeAttribute.Separator">
+            <summary>
+                Gets the separator to use in order to join the enumeration flags or array items.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.Html.DotHtmlJoinableTypeAttribute.Sort">
+            <summary>
+                Determines whether the values should be ordered before joining.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Metadata.IDotAttributeValueAttribute">
+            <summary>
+                A common interface for enumeration member attributes that provide a DOT attribute value.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.IDotAttributeValueAttribute.Value">
+            <summary>
+                Gets the value of the DOT attribute.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Metadata.IDotJoinableTypeAttribute">
+            <summary>
+                A common interface for flag enumerations and array types that can be joined with a separator.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.IDotJoinableTypeAttribute.Separator">
+            <summary>
+                Gets the separator to use in order to join the enumeration flags or array items.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Metadata.IDotJoinableTypeAttribute.Sort">
+            <summary>
+                Determines whether the values should be ordered before joining.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Options.DotFormattingOptions">
+            <summary>
+                Customizes output DOT script formatting.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.ClusterOptions.SingleLine">
+            <summary>
+                Gets or sets a value indicating if clusters should be written in single lines.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.Default">
+            <summary>
+                Gets the default formatting options.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.SingleLine">
+            <summary>
+                Indicates if the output should be generated without line breaks.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.IndentationLevel">
+            <summary>
+                The base indentation level for the DOT output.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.IndentationSize">
+            <summary>
+                The indentation size.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.IndentationChar">
+            <summary>
+                Determines what character to use for indentation (space by default).
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.LineBreak">
+            <summary>
+                The line break sequence to use in the DOT output (a system-dependent line break sequence is used by default; see also
+                <see cref="T:GiGraph.Dot.Output.Text.DotNewLine" />).
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.GlobalAttributes">
+            <summary>
+                Gets global attribute formatting options.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.Subgraphs">
+            <summary>
+                Gets subgraph formatting options.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.Clusters">
+            <summary>
+                Gets cluster formatting options.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.Edges">
+            <summary>
+                Gets edge formatting options.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.Nodes">
+            <summary>
+                Gets node formatting options.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.TextEncoder">
+            <summary>
+                An optional text encoder to use when writing text to the output stream. May become useful when the DOT visualization tool you
+                use fails processing some special or national characters. In such case replacing them with their HTML-code equivalents might
+                help.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Options.DotFormattingOptions.SingleLineAttributeLists">
+            <summary>
+                Causes attribute lists of all types of elements to be written inline.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Options.DotFormattingOptions.MultilineAttributeLists">
+            <summary>
+                Causes attribute lists of all types of elements to be written in multiple lines (one attribute per line).
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.EdgeOptions.SingleLineSubgraphs">
+            <summary>
+                Gets or sets a value indicating if subgraphs representing groups of endpoints should be written in single lines.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.EdgeOptions.SingleLineAttributeLists">
+            <summary>
+                Gets or sets a value indicating if edge attributes should be written in a single line.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.GlobalAttributesOptions.SingleLineGraphAttributeList">
+            <summary>
+                Gets or sets a value indicating if graph, cluster and subgraph attributes should be written inline (assuming that their
+                corresponding <see cref="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.GraphOptions.AttributesAsStatements" />,
+                <see cref="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.ClusterOptions.AttributesAsStatements" />, or
+                <see cref="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.SubgraphOptions.AttributesAsStatements" /> option of <see cref="T:GiGraph.Dot.Output.Options.DotSyntaxOptions" /> is false).
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.GlobalAttributesOptions.SingleLineNodeAttributeList">
+            <summary>
+                Gets or sets a value indicating if global node attributes in the root graph, clusters, and subgraphs should be written as a
+                single line.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.GlobalAttributesOptions.SingleLineEdgeAttributeList">
+            <summary>
+                Gets or sets a value indicating if global edge attributes in the root graph, clusters, and subgraphs should be written as a
+                single line.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.GlobalAttributesOptions.SingleLineAttributeLists">
+            <summary>
+                Gets or sets a value indicating if global graph, node, and edge attributes in the root graph, clusters, and subgraphs should
+                be written as single lines.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.NodeOptions.SingleLineAttributeLists">
+            <summary>
+                Gets or sets a value indicating if node attributes should be written in a single line.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotFormattingOptions.SubgraphOptions.SingleLine">
+            <summary>
+                Gets or sets a value indicating if subgraphs should be written in single lines.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Options.DotSyntaxOptions">
+            <summary>
+                Specifies syntax-related options for generating the output DOT script.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.AttributeOptions.PreferQuotedKey">
+            <summary>
+                When set, keys will always be quoted, even if it is not required.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.AttributeOptions.PreferQuotedValue">
+            <summary>
+                When set, attribute value will always be quoted, even if it is not required.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.AttributeOptions.PreferExplicitSeparator">
+            <summary>
+                When true, attributes enclosed in square brackets (e.g. node attributes), will be separated with colons (,). When false, they
+                will be separated with spaces.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.AttributeOptions.Html">
+            <summary>
+                HTML attribute options.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.ClusterOptions.ClusterIdSeparator">
+            <summary>
+                Cluster is a subgraph with an identifier prefixed with the "cluster" keyword. This property determines what string to use
+                between that keyword and the actual identifier specified for a cluster instance. The default separator is space, which forms
+                an identifier in a format "cluster identifier", where 'identifier' is any string used as a cluster identifier.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.ClusterOptions.AttributesAsStatements">
+            <summary>
+                When true, cluster attributes will be written as separate statements. When false, the "graph [attr_list]" format will be used
+                instead.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.ColorOptions.PreferName">
+            <summary>
+                When true, <see cref="P:System.Drawing.Color.Name" /> is always used instead of the actual color value. Note that not all known colors
+                recognized by the <see cref="T:System.Drawing.Color" /> class are supported by DOT visualization tools, and even if they are, they may differ
+                is some cases by the actual colors they represent. What's more, some color names may have different interpretations depending
+                on the color scheme used for the graph. If you want to be sure a color is interpreted exactly the way it is provided by the
+                <see cref="T:System.Drawing.Color" /> instance, set the current property to false, in which case the actual color value will always be used
+                instead of its name.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.CommentOptions.Enabled">
+            <summary>
+                Gets or sets the value indicating if the annotations (comments) of elements should be included in the output DOT script.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.CommentOptions.PreferBlockComments">
+            <summary>
+                When set, block comments are used (/* */) instead of single line comments (//). When the output DOT script is written as a
+                single line, block comments are used even if the property is not set.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.CommentOptions.PreferHashForSingleLineComments">
+            <summary>
+                When set, a hash (#) is used for single line comments instead of a double slash (//).
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.Default">
+            <summary>
+                Gets the default syntax options.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.Attributes">
+            <summary>
+                Attribute options.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.Graph">
+            <summary>
+                Root graph options.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.Subgraphs">
+            <summary>
+                Subgraph options.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.Clusters">
+            <summary>
+                Cluster options.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.Edges">
+            <summary>
+                Edge options.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.Colors">
+            <summary>
+                Color options.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.Comments">
+            <summary>
+                Comment options.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.PreferQuotedIdentifiers">
+            <summary>
+                When set, identifiers will always be quoted, even if it is not required.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.PreferStatementDelimiter">
+            <summary>
+                When set, all statements within the graph will be followed by a delimiter (;).
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.SortElements">
+            <summary>
+                Gets or sets a value indicating if graph elements should be sorted in the output DOT script. This setting affects attributes,
+                nodes, edges, subgraphs, and clusters. If false, all elements will be rendered in the order they were added to individual
+                graph element collections.
+                <para>
+                    Useful when the output DOT script is going to be compared to its other versions, so that there are as few differences
+                    between the scripts as possible. However, this option should be used with care because the order of elements in the
+                    script may affect the order they are visualized, if that matters.
+                </para>
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.EdgeOptions.PreferExplicitSubgraphDeclaration">
+            <summary>
+                When set, subgraphs used as groups of endpoints will always be preceded with the 'subgraph' keyword, even when it is not
+                required.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.GraphOptions.AttributesAsStatements">
+            <summary>
+                When true, graph attributes will be written as separate statements. When false, the "graph [attr_list]" format will be used
+                instead.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.HtmlOptions.ElementNameCasing">
+            <summary>
+                Determines the casing to use for HTML element names.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.HtmlOptions.AttributeKeyCasing">
+            <summary>
+                Determines the casing to use for HTML element attribute keys.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.SubgraphOptions.PreferExplicitDeclaration">
+            <summary>
+                When set, subgraphs will always be preceded with the 'subgraph' keyword, even when it is not required.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxOptions.SubgraphOptions.AttributesAsStatements">
+            <summary>
+                When true, subgraph attributes will be written as separate statements. When false, the "graph [attr_list]" format will be
+                used instead.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Options.DotSyntaxRules">
+            <summary>
+                The syntax rules used on DOT output generation.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxRules.AttributeRules.KeyEscaper">
+            <summary>
+                A text escaper to use for attribute keys (no escaping is used by default).
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxRules.AttributeRules.StringValueEscaper">
+            <summary>
+                A text escaper to use for string values (only quotation marks and trailing backslashes are escaped by default).
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxRules.AttributeRules.EscapeStringValueEscaper">
+            <summary>
+                A text escaper to use for escape string values.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxRules.AttributeRules.RecordLabelValueFieldEscaper">
+            <summary>
+                A text escaper to use for fields of record-shaped node labels.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxRules.AttributeRules.RecordLabelValuePortEscaper">
+            <summary>
+                A text escaper to use for ports of record-shaped node labels.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxRules.AttributeRules.Html">
+            <summary>
+                Syntax rules for HTML attributes.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxRules.Default">
+            <summary>
+                Gets the default syntax rules.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxRules.Keywords">
+            <summary>
+                The collection of reserved words that cannot be used as identifiers/keys unless quoted.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxRules.AlphabeticIdentifierPattern">
+            <summary>
+                The regex pattern to use in order to determine if an alphabetic identifier or attribute value can be used without quoting.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxRules.NumericIdentifierPattern">
+            <summary>
+                The regex pattern to use in order to determine if a numeric identifier or attribute value can be used without quoting.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxRules.IdentifierEscaper">
+            <summary>
+                A text escaper to use for identifiers (only quotation marks and trailing backslashes are escaped by default).
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxRules.Culture">
+            <summary>
+                The culture info to use for writing numbers, especially floating-point numbers.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxRules.Attributes">
+            <summary>
+                Attribute-related syntax rules.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Options.DotSyntaxRules.IsKeyword(System.String)">
+            <summary>
+                Determines if the specified word is a keyword.
+            </summary>
+            <param name="value">
+                The word to check.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Options.DotSyntaxRules.IsValidIdentifier(System.String)">
+            <summary>
+                Determines if the specified value can be used as identifier without quoting.
+            </summary>
+            <param name="value">
+                The value to check.
+            </param>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxRules.HtmlRules.AttributeValueEscaper">
+            <summary>
+                A text escaper to use for HTML attribute values in general (unless another escaper is used in some contexts).
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxRules.HtmlRules.AttributeEscapeStringValueEscaper">
+            <summary>
+                A text escaper to use for HTML attribute values of the escape string type.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxRules.HtmlRules.ElementTextContentEscaper">
+            <summary>
+                A text escaper to use for textual content of HTML elements.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Options.DotSyntaxRules.HtmlRules.CommentTextEscaper">
+            <summary>
+                A text escaper to use for the textual content of HTML comment tags.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Options.DotTextCase">
+            <summary>
+                Text case options.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Options.DotTextCase.Normal">
+            <summary>
+                Leaves the current text casing as is.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Options.DotTextCase.Upper">
+            <summary>
+                Converts text to upper case.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Options.DotTextCase.Lower">
+            <summary>
+                Converts text to lower case.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Options.DotTokenType">
+            <summary>
+                DOT token type.
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Qualities.IDotAnnotatable.Annotation">
+            <summary>
+                The annotation to write in the output DOT script as a comment in the context of the element or section represented by the
+                current object.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Qualities.IDotEncodable">
+            <summary>
+                Represents a type that can be encoded as string into a format accepted by layout engines.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Qualities.IDotEncodable.GetDotEncodedValue(GiGraph.Dot.Output.Options.DotSyntaxOptions,GiGraph.Dot.Output.Options.DotSyntaxRules)">
+            <summary>
+                Gets a DOT-encoded value.
+            </summary>
+            <param name="options">
+                The DOT generation options to use.
+            </param>
+            <param name="syntaxRules">
+                The DOT syntax rules to use.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Qualities.IDotEscapable.GetEscaped(GiGraph.Dot.Output.Text.Escaping.IDotTextEscaper)">
+            <summary>
+                Gets the escaped text.
+            </summary>
+            <param name="textEscaper">
+                The text escaper to use.
+            </param>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Qualities.IDotHtmlEncodable">
+            <summary>
+                Represents a type that can be converted to an HTML string.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Qualities.IDotHtmlEncodable.ToHtml(GiGraph.Dot.Output.Options.DotSyntaxOptions,GiGraph.Dot.Output.Options.DotSyntaxRules)">
+            <summary>
+                Converts the entity to an HTML string.
+            </summary>
+            <param name="options">
+                The syntax options to apply.
+            </param>
+            <param name="syntaxRules">
+                The syntax rules to apply.
+            </param>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Qualities.IDotOrderable.OrderingKey">
+            <summary>
+                Gets the key by which the entity can be sorted in the output script among elements of the same type.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Text.DotNewLine">
+            <summary>
+                Operating system-based new line constants.
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Text.DotNewLine.Windows">
+            <summary>
+                Windows new line string (carriage return and line feed: \r\n).
+            </summary>
+        </member>
+        <member name="F:GiGraph.Dot.Output.Text.DotNewLine.Unix">
+            <summary>
+                Unix and Unix-like systems new line string (line feed: \n).
+            </summary>
+        </member>
+        <member name="P:GiGraph.Dot.Output.Text.DotNewLine.SystemDefault">
+            <summary>
+                Gets the newline string defined for this environment.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Text.DotTextCasing">
+            <summary>
+                Modifies text casing.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.DotTextCasing.SetCasing(System.String,GiGraph.Dot.Output.Options.DotTextCase)">
+            <summary>
+                Sets text casing.
+            </summary>
+            <param name="text">
+                The text whose casing to set.
+            </param>
+            <param name="casing">
+                The casing to set.
+            </param>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Text.Escaping.DotAngleBracketsEscaper">
+            <summary>
+                Escapes angle brackets (&lt;, &gt;). Use for escaping text of record-shaped node fields.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Text.Escaping.DotBackslashEscaper">
+            <summary>
+                Escapes backslashes.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Text.Escaping.DotCarriageReturnEscaper">
+            <summary>
+                Escapes carriage return characters (CR == \x000D == \r).
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Text.Escaping.DotCurlyBracketsEscaper">
+            <summary>
+                Escapes curly brackets ({, }). Use for escaping text of record-shaped node fields.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Text.Escaping.DotQuotationMarkEscaper">
+            <summary>
+                Escapes quotation marks.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Text.Escaping.DotSpaceEscaper">
+            <summary>
+                Escapes spaces.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Text.Escaping.DotSpacePaddingEscaper">
+            <summary>
+                Escapes leading and trailing spaces with the   HTML code. Used because escaping a leading space with a backslash seems to
+                be ignored, and, on the other hand, escaping trailing spaces with a backslash causes the extra separator space added at the
+                end to be interpreted as part of text.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Text.Escaping.DotSystemDefaultNewLineEscaper">
+            <summary>
+                Escapes the environment new line character or sequence (system-dependent).
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Text.Escaping.DotUnixNewLineEscaper">
+            <summary>
+                Escapes line feed characters (LF == \x000A == \n).
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Text.Escaping.DotVerticalBarEscaper">
+            <summary>
+                Escapes vertical bars (|). Use for escaping text of record-shaped node fields.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Text.Escaping.DotWindowsNewLineEscaper">
+            <summary>
+                Escapes the carriage return + line feed character sequence (CRLF == \x000D\x000A == \r\n).
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Text.Escaping.Html.DotHtmlEncodeEscaper">
+            <summary>
+                Converts a string to an HTML-encoded string.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Text.Escaping.Html.DotSpaceHtmlEscaper">
+            <summary>
+                Escapes spaces with the &amp;#32; HTML code.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Text.Escaping.Html.DotTrailingBackslashHtmlEscaper">
+            <summary>
+                Escapes trailing backslash with the &amp;#92; HTML code.
+            </summary>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Text.Escaping.IDotTextEscaper">
+            <summary>
+                Escapes text.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.IDotTextEscaper.Escape(System.String)">
+            <summary>
+                Escapes the specified text.
+            </summary>
+            <param name="value">
+                The text to escape.
+            </param>
+        </member>
+        <member name="T:GiGraph.Dot.Output.Text.Escaping.Pipelines.DotTextEscapingPipeline">
+            <summary>
+                Escapes text in multiple steps.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.Pipelines.DotTextEscapingPipeline.#ctor">
+            <summary>
+                Creates an empty text escaping pipeline.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.Pipelines.DotTextEscapingPipeline.#ctor(GiGraph.Dot.Output.Text.Escaping.IDotTextEscaper[])">
+            <summary>
+                Creates a new pipeline initialized with the specified text escapers.
+            </summary>
+            <param name="escapers">
+                The text escapers to use.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.Pipelines.DotTextEscapingPipeline.#ctor(System.Collections.Generic.IEnumerable{GiGraph.Dot.Output.Text.Escaping.IDotTextEscaper})">
+            <summary>
+                Creates a text escaping pipeline initialized with the specified collection of text escapers.
+            </summary>
+            <param name="escapers">
+                The text escapers to initialize the pipeline with.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.Pipelines.DotTextEscapingPipeline.None">
+            <summary>
+                Creates a new pipeline that does not modify the input string in any way.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.Pipelines.DotTextEscapingPipeline.ForString">
+            <summary>
+                Creates a new pipeline that escapes backslashes and quotation marks.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.Pipelines.DotTextEscapingPipeline.ForEscapeString">
+            <summary>
+                Creates a new pipeline that escapes backslashes, quotation marks, and line breaks.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.Pipelines.DotTextEscapingPipeline.ForHtmlElementTextContent">
+            <summary>
+                Creates a new pipeline that escapes text for use as the content of an HTML element.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.Pipelines.DotTextEscapingPipeline.ForHtmlCommentText">
+            <summary>
+                Creates a new pipeline that escapes HTML comment tag text.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.Pipelines.DotTextEscapingPipeline.ForHtmlAttributeValue">
+            <summary>
+                Creates a new pipeline that escapes HTML attribute values in general.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.Pipelines.DotTextEscapingPipeline.ForHtmlAttributeEscapeStringValue">
+            <summary>
+                Creates a new pipeline that escapes HTML attribute value of the escape string type.
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.Pipelines.DotTextEscapingPipeline.ForRecordLabelField">
+            <summary>
+                Creates a new pipeline that escapes fields of record labels (backslashes, quotation marks, line breaks; angle and curly
+                brackets, vertical bars, and spaces).
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.Pipelines.DotTextEscapingPipeline.ForRecordLabelPort">
+            <summary>
+                Creates a new pipeline that escapes ports of record labels (backslashes, quotation marks; angle and curly brackets, vertical
+                bars, and spaces).
+            </summary>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.DotAngleBracketsEscaper.GiGraph#Dot#Output#Text#Escaping#IDotTextEscaper#Escape(System.String)">
+            <summary>
+                Escapes the specified text.
+            </summary>
+            <param name="value">
+                The text to escape.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.DotBackslashEscaper.GiGraph#Dot#Output#Text#Escaping#IDotTextEscaper#Escape(System.String)">
+            <summary>
+                Escapes the specified text.
+            </summary>
+            <param name="value">
+                The text to escape.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.DotCarriageReturnEscaper.GiGraph#Dot#Output#Text#Escaping#IDotTextEscaper#Escape(System.String)">
+            <summary>
+                Escapes the specified text.
+            </summary>
+            <param name="value">
+                The text to escape.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.DotCurlyBracketsEscaper.GiGraph#Dot#Output#Text#Escaping#IDotTextEscaper#Escape(System.String)">
+            <summary>
+                Escapes the specified text.
+            </summary>
+            <param name="value">
+                The text to escape.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.DotQuotationMarkEscaper.GiGraph#Dot#Output#Text#Escaping#IDotTextEscaper#Escape(System.String)">
+            <summary>
+                Escapes the specified text.
+            </summary>
+            <param name="value">
+                The text to escape.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.DotSpaceEscaper.GiGraph#Dot#Output#Text#Escaping#IDotTextEscaper#Escape(System.String)">
+            <summary>
+                Escapes the specified text.
+            </summary>
+            <param name="value">
+                The text to escape.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.DotSpacePaddingEscaper.GiGraph#Dot#Output#Text#Escaping#IDotTextEscaper#Escape(System.String)">
+            <summary>
+                Escapes the specified text.
+            </summary>
+            <param name="value">
+                The text to escape.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.DotSystemDefaultNewLineEscaper.GiGraph#Dot#Output#Text#Escaping#IDotTextEscaper#Escape(System.String)">
+            <summary>
+                Escapes the specified text.
+            </summary>
+            <param name="value">
+                The text to escape.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.DotUnixNewLineEscaper.GiGraph#Dot#Output#Text#Escaping#IDotTextEscaper#Escape(System.String)">
+            <summary>
+                Escapes the specified text.
+            </summary>
+            <param name="value">
+                The text to escape.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.DotVerticalBarEscaper.GiGraph#Dot#Output#Text#Escaping#IDotTextEscaper#Escape(System.String)">
+            <summary>
+                Escapes the specified text.
+            </summary>
+            <param name="value">
+                The text to escape.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.DotWindowsNewLineEscaper.GiGraph#Dot#Output#Text#Escaping#IDotTextEscaper#Escape(System.String)">
+            <summary>
+                Escapes the specified text.
+            </summary>
+            <param name="value">
+                The text to escape.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.Html.DotHtmlEncodeEscaper.GiGraph#Dot#Output#Text#Escaping#IDotTextEscaper#Escape(System.String)">
+            <summary>
+                Escapes the specified text.
+            </summary>
+            <param name="value">
+                The text to escape.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.Html.DotSpaceHtmlEscaper.GiGraph#Dot#Output#Text#Escaping#IDotTextEscaper#Escape(System.String)">
+            <summary>
+                Escapes the specified text.
+            </summary>
+            <param name="value">
+                The text to escape.
+            </param>
+        </member>
+        <member name="M:GiGraph.Dot.Output.Text.Escaping.Html.DotTrailingBackslashHtmlEscaper.GiGraph#Dot#Output#Text#Escaping#IDotTextEscaper#Escape(System.String)">
+            <summary>
+                Escapes the specified text.
+            </summary>
+            <param name="value">
+                The text to escape.
+            </param>
+        </member>
+    </members>
+</doc>
