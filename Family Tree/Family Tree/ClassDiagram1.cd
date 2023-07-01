@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Family_Tree.People">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQgiAEAAAAABAaCEEEQQAIQAIAAgAAAgAQEAABgAAAg=</HashCode>
+      <FileName>Classes\Primary classes\People.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Family_Tree.Participants">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAEEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Primary classes\Participants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Family_Tree.Places">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgABEAAAgAAAABAGAAAQEAAAAAAACAQAAAAAABAA=</HashCode>
+      <FileName>Classes\Primary classes\Places.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Family_Tree.Events">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAQkAAEoAQAAAQAAAAAAAAAAAAIAAQAAAABACAA=</HashCode>
+      <FileName>Classes\Primary classes\Events.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Family_Tree.AddEditPerson">
+    <Position X="13.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAQAAAAEACAIABCAJAAACACAFAACAoAAggEA=</HashCode>
+      <FileName>AddingPerson.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Family_Tree.AddEditEvent">
+    <Position X="15.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CZAAAAAgAQAAAFAACAAABAADABAQAAAhAAAAgAAAAAA=</HashCode>
+      <FileName>AddingEvents.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Family_Tree.AddEditPlace" Collapsed="true">
+    <Position X="17.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAABAABAAAAAAABAAAAgAAAAEA=</HashCode>
+      <FileName>AddingPlaces.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Family_Tree.MainWindow" Collapsed="true">
+    <Position X="19" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAACAABAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Family_Tree.Show">
+    <Position X="20.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAACAAAIAgACgAMCAAAABEAIAAAAAAAAAgABAAAA=</HashCode>
+      <FileName>Show.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Family_Tree.ShowTree">
+    <Position X="19" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAEAAAAAAAAAAABAAAAAAgAQAAMAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>ShowTree.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Family_Tree.Tree" BaseTypeListCollapsed="true">
+    <Position X="22.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgIAIAAAAEBICAAAAAAAAAEGAAEAAA=</HashCode>
+      <FileName>Tree.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Family_Tree.Warning" Collapsed="true">
+    <Position X="17.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Warning.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Family_Tree.TreeEditor">
+    <Position X="12" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgIEAAAAAAAQAACAAAhgBCAEgRAKAagCAJAAAQgA=</HashCode>
+      <FileName>TreeEditor.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

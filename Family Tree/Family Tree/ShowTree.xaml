@@ -1,0 +1,55 @@
+﻿<Window x:Class="Family_Tree.ShowTree"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        WindowStartupLocation="CenterScreen"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Family_Tree"
+        mc:Ignorable="d"
+        Title = "Family tree: Просмотр древа"
+        Height="700" Width="900">
+    <Window.Resources>
+        <Style x:Key="HoverButtonStyle" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <DockPanel>
+            <Slider ValueChanged="Slider_ValueChanged_1" x:Name="slider" Minimum="0.1" Maximum="3"  DockPanel.Dock="Right" Value="0.1"  Orientation="Vertical"></Slider>
+            <ScrollViewer  VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Visible" FlowDirection="RightToLeft" CanContentScroll="True" DockPanel.Dock="Left">
+                <Image  x:Name="imageviewer" Source="Assets/Images/woman.png"   Margin="40"></Image>
+
+            </ScrollViewer>
+
+
+        </DockPanel>
+
+        <Button HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,18,30,0" Height="45" Width="45" Padding="0 0 0 5"  local:ContextMenuLeftClickBehavior.IsLeftClickEnabled="True"  Cursor="Hand" Grid.Row="0" Content="☰" Foreground="Gray" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" FontFamily="{StaticResource Regular}" FontSize="35">
+            <Button.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Сохранить древо" Icon="📁" Click="MenuItem_Click"  FontFamily="{StaticResource Regular}" Cursor="Hand"/>
+                    <MenuItem Header="Настроить снова" Icon=" ↺" Click="MenuItem_Click_1"  FontFamily="{StaticResource Regular}" Cursor="Hand"/>
+                    <MenuItem Header="Выйти" Icon=" ✕" Click="MenuItem_Click_2"  FontFamily="{StaticResource Regular}" Cursor="Hand"/>
+                </ContextMenu>
+            </Button.ContextMenu>
+        </Button>
+
+    </Grid>
+</Window>
