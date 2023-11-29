@@ -16,7 +16,8 @@
   <p align="center">
      Приложение для создания генеалогических деревьев
     <br />
-    <a href="https://krabochki.github.io/Resume/family-tree.html">Подбробнее</a>·
+    <a href="https://krabochki.github.io/Resume/family-tree.html">Подробнее</a>
+    ·
     <a href="https://github.com/krabochki/FamilyTree/issues">Баги</a>
     ·
     <a href="https://www.linkedin.com/in/polina-kuzmenok-550449291">LinkedIn автора</a>
