@@ -46,8 +46,8 @@
 
 <br>
 <div align="center">
+    <img src="readme-pic.jpg"  height="350">
 
-<img src="src/assets/pictures/animals/parrot.png" alt="parrot"  height="350">
 </div>
 <p align="right">(<a href="#readme-top">наверх</a>)</p>
 
