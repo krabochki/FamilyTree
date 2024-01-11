@@ -70,7 +70,7 @@
 
 
 <div align="center">
-    <img src="https://github.com/krabochki/FamilyTree/assets/117679964/5aa34473-8736-4e8e-b323-ff9119edfb5e"  height="400">
+    <img src="https://github.com/krabochki/FamilyTree/assets/117679964/5aa34473-8736-4e8e-b323-ff9119edfb5e"  height="350">
 
 </div>
 
