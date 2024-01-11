@@ -63,6 +63,16 @@
 
 </div>
 
+<div align="center">
+    <img src="https://github.com/krabochki/FamilyTree/assets/117679964/60bcd9a7-67b7-4a09-8b57-64a8cbfa714c"  height="400">
+
+</div>
+
+
+<div align="center">
+    <img src="https://github.com/krabochki/FamilyTree/assets/117679964/5aa34473-8736-4e8e-b323-ff9119edfb5e"  height="400">
+
+</div>
 
 <p align="right">(<a href="#readme-top">наверх</a>)</p>
 
