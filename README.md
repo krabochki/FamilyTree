@@ -58,7 +58,11 @@
 
 </div>
 
-![image](https://github.com/krabochki/FamilyTree/assets/117679964/1adc38a9-78c2-4ce9-8a7b-334a1439a230)
+<div align="center">
+    <img src="https://github.com/krabochki/FamilyTree/assets/117679964/1adc38a9-78c2-4ce9-8a7b-334a1439a230"  height="350">
+
+</div>
+
 
 
 <div align="center">
