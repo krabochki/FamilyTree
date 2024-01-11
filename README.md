@@ -1,4 +1,3 @@
-![image](https://github.com/krabochki/FamilyTree/assets/117679964/22f2d55f-c12d-421b-bf62-7684c0b8cd8a)![image](https://github.com/krabochki/FamilyTree/assets/117679964/a7e99c6d-ad6a-4872-88d3-682894c4d8b9)![image](https://github.com/krabochki/FamilyTree/assets/117679964/9728b089-9861-4d99-9493-88d925b28fbc)
 
 
 <a name="readme-top"></a>
