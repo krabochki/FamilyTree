@@ -1,4 +1,3 @@
-![image](https://github.com/krabochki/FamilyTree/assets/117679964/7753e3c1-a4e1-4985-950b-f14117c3fcc5)
 
 <a name="readme-top"></a>
 
@@ -42,7 +41,7 @@
 
 В связи с выбором базы данных для проекта (Microsoft Access .accdb) приложение с большой вероятностью НЕ запустится корректно на компьютерах, на которых не установлен пакет Office (Excel, Word, PowerPoint, Access). Если приложение сразу дает возможность создать и открыть древо, значит, все нормально. Если на попытке создать новое древо возникает ошибка, вам может помочь установка Microsoft Access Database Engine. Его можно скачать с официального сайта Microsoft, весит он немного (25 МБ). Выбрать для загрузки нужно именно первый вариант без приписки Х64. Это позволит пользоваться функционалом баз данных Access без необходимости установки полного пакета Office, что, собственно, и нужно для корректной работы приложения. 
 
-![image](https://github.com/krabochki/FamilyTree/assets/117679964/90474e7f-a6a4-40d5-9c87-c418f19ca7ca)
+![image](https://github.com/krabochki/FamilyTree/assets/117679964/7753e3c1-a4e1-4985-950b-f14117c3fcc5)
 
 <a href="https://www.microsoft.com/en-us/download/details.aspx?id=13255 "/> >>> Официальный Microsoft Access Database Engine <<< </a>
 
